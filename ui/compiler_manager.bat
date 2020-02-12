@@ -1,0 +1,1 @@
+pyuic5 manager.ui -o manager.py

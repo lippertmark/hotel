@@ -1,0 +1,1 @@
+pyuic5 admin.ui -o admin.py

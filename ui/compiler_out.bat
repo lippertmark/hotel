@@ -1,0 +1,1 @@
+pyuic5 out.ui -o out.py

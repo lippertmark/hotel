@@ -1,0 +1,1 @@
+pyuic5 answer_login.ui -o answer_login.py
